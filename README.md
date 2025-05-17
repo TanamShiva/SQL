@@ -1,2 +1,2 @@
 # SQL
-LibraryManagementSystem
+SQL Projects
